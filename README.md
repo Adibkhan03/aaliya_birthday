@@ -1,2 +1,2 @@
 # silly birthday game
-run: https://RaulTheMiner17.github.io/birthday
+run: (https://github.com/Adibkhan03/aaliya_birthday)
